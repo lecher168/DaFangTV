@@ -119,7 +119,7 @@ docker run -d \
 services:
   libretv:
     image: bestzwei/libretv:latest
-    container_name: libretv
+    container_name: 大房影院
     ports:
       - "8899:8080" # 将内部 8080 端口映射到主机的 8899 端口
     environment:
