@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: 大房影院
+    name: LibreTV
     runtime: node
     plan: free
     buildCommand: 'npm install'
