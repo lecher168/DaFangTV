@@ -20,7 +20,7 @@
 2. **克隆仓库**
    ```bash
    git clone https://github.com/YOUR_USERNAME/LibreTV.git
-   cd LibreTV
+   cd 大房影院
    ```
 
 3. **安装依赖**
